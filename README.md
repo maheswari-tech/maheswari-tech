@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java web development and improving my skills in python and AI .
 - 👀 I’m passionate about emerging technologies such as blockchain, AI ,etc., that are shaping our future.
 - 📫 You can reach me through ✉ : maheswarinagendrancs@gmail.com
-- 🖇️Linkedin Profile:
+- 🖇️Linkedin Profile:www.linkedin.com/in/maheswari-nagendran
 - 😄 Pronouns: She/Her
 
 
